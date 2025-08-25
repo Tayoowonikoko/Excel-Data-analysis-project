@@ -40,12 +40,13 @@
   •	Where? Urban areas with short commute distances.
   •	What? Stronger demand for mid-to-premium bikes and commuting solutions.
 🔹 Recommendations
-  1.	Targeted Marketing: Focus campaigns on middle-aged professionals and managers with higher income and shorter commutes.
-  2.	Regional Strategy: Strengthen marketing outside Europe, where purchase rates are higher.
-  3.	Product Bundling: Promote commuting packages (bikes + accessories) tailored to urban professionals.
-  4.	Awareness Campaigns: Explore strategies to increase awareness and sales in low-performing regions (e.g., Europe).
+  1.Targeted Marketing: Focus campaigns on middle-aged professionals and managers with higher income and shorter commutes.
+  2.Regional Strategy: Strengthen marketing outside Europe, where purchase rates are higher.
+  3.Product Bundling: Promote commuting packages (bikes + accessories) tailored to urban professionals.
+  4.Awareness Campaigns: Explore strategies to increase awareness and sales in low-performing regions (e.g., Europe).
 🔹 Tools & Skills
   •	Excel: Data cleaning, PivotTables, PivotCharts (bar & line), Slicers, Conditional Formatting, Dashboard Design.
   •	Data Preparation: Handling duplicates, nulls, and standardization of categorical variables.
   •	Data Visualization: Interactive dashboards for storytelling and decision-making.
+
 
