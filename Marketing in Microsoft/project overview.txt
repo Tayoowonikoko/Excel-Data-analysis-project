@@ -1,0 +1,58 @@
+Marketing as a Driver of Revenue and Sales: An Analysis of Microsoft Corporation
+📘 Overview
+
+This project analyses the relationship between Microsoft Corporation’s sales and marketing expenditure and its key performance indicators — total revenue and Office 365 subscriptions — from 2014 to 2023. The study explores how marketing investment drives business growth and performance in a competitive technology market.
+
+🎯 Objectives
+
+To assess how Microsoft’s sales and marketing expenditure impacts total revenue.
+
+To evaluate the relationship between marketing spend and Office 365 subscription growth.
+
+To recommend data-driven strategies for optimising marketing ROI.
+
+🧠 Methodology
+
+Data Source: Secondary data extracted from Microsoft’s annual reports (2014–2023).
+
+Analysis Tools: Microsoft Excel (descriptive statistics, trend analysis, and regression modelling).
+
+Variables:
+
+Independent: Sales & Marketing Expenditure
+
+Dependent: Total Revenue, Number of Office 365 Subscribers
+
+Models: Linear regression models developed for both revenue and subscriber data.
+
+📊 Key Findings
+
+Strong positive correlation between sales & marketing expenditure and revenue (R² = 0.93).
+
+Significant positive impact of marketing on Office 365 subscriptions (R² = 0.82).
+
+Regression equations:
+
+Revenue = –139,704 + 15.14 × (Sales & Marketing)
+
+Subscribers = –66.29 + 0.006 × (Sales & Marketing)
+
+Concluded that strategic marketing investment substantially drives Microsoft’s sales growth and subscription base.
+
+💡 Recommendations
+
+Maintain and optimise marketing investment for sustained revenue growth.
+
+Adopt data-driven, customer-focused marketing strategies.
+
+Further analyse marketing channels to identify the most effective revenue drivers.
+
+🛠️ Skills Demonstrated
+
+Quantitative research
+
+Data analysis and regression modelling
+
+Business performance evaluation
+
+Report writing and presentation of insights
